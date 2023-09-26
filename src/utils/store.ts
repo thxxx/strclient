@@ -1,4 +1,4 @@
-import { PLANTYPE } from '@/pages/gen/PMselect'
+import { PLANTYPE } from '@/pages/gens/PMselect'
 import { create } from 'zustand'
 import { KeywordsType } from './keywords'
 
