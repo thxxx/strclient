@@ -71,3 +71,26 @@
 .editor:focus {
   border: none;
 }
+
+.inputs{
+  padding:5px;
+  min-width:500px;
+}
+
+.loading{
+  width:100vw;
+  height:100vh;
+  z-index:2;
+  position:absolute;
+  top:0;
+  left:0;
+  background: rgba(0,0,0,0.2);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.one_div{
+  padding:3px;
+  margin: 3px 0px;
+}
